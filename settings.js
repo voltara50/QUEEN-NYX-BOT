@@ -1,9 +1,8 @@
-//base by DGXeon
-//recode by Always Ziyoo
-//YouTube: @Ziyo232
-//Telegram: t.me/ziyooffc
+//PREXZY SOLOS
+//YouTube: @prexzyvilla
+//Telegram: t.me/prexzyvilla_tech
 
-/* ● Always Ziyoo ( Andre ) di remehkan?? Tentu ini bukan Ancaman ! */
+
 
 const fs = require('fs')
 const chalk = require('chalk')
