@@ -18,8 +18,18 @@
    
    
 
-QUEEN NYX BOT is a normal bot designed to enhance the functionality and preferences of a user's whatsApp. Use reasonably
+**Queen Nyx - The Ultimate AI-Powered WhatsApp Bot 👑✨**
 
+Meet Queen Nyx, your all-in-one WhatsApp assistant, designed to bring intelligence, automation, and fun to your chats! 🚀 Whether you need quick replies, advanced moderation, or entertaining features, Queen Nyx has you covered. With a sleek design, powerful commands, and AI-driven responses, this bot is your perfect digital companion.
+
+⚡ Features:
+✅ Smart Auto-Responses
+✅ Group Management & Moderation
+✅ Fun Commands & AI Chatbot
+✅ Customizable Features
+✅ Fast & Reliable Performance
+
+Rule your WhatsApp world with Queen Nyx—because every chat deserves a royal touch! 👑🤖
 ©PREXZYVILLA
 
 ### 1. STAR THIS REPO
@@ -40,14 +50,6 @@ IF YOU DON'T HAVE A PANEL ACCOUNT CLICK BELOW TO BUY ONE
 ## Watch Tutorial videos.
 * [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@prexzyvilla)
 
-
-
-
-
-
-
-
-`Please PREXZY BUG BOT is for scammers only. Don't use it to harm innocent people`
 
 
 ## Contributions
