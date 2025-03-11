@@ -29,76 +29,19 @@ QUEEN NYX BOT is a normal bot designed to enhance the functionality and preferen
 
  **2.DEPLOYMENT PROCESS**
 ### DEPLOY ON PANEL
-IF YOU DON'T HAVE A PANEL ACCOUNT CREATE ONE AND SERVER TO DEPLOY 
+IF YOU DON'T HAVE A PANEL ACCOUNT CLICK BELOW TO BUY ONE 
     <br>
-    <a href='https://bot-hosting.net/?aff=1264676029318955030' target="_blank"><img alt='Panel' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=panel&logoColor=white'/></a>
+    <a href='https://wa.me/2349159895444?text=I%20wanna%20buy%20a%20panel%20to%20deploy%20my%20bot' target="_blank"><img alt='Panel' src='https://img.shields.io/badge/BUY%20PANEL-green?style=for-the-badge'/></a>
 
-### OR
-### 1. <a href="https://prexzyvillasession.onrender.com/"><img src="https://img.shields.io/badge/PAIR_CODE-green" alt="Clique ici pour avoir le Pair-Code" width="90"></a>
-
-## 2. <a href='https://dashboard.render.com/web/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-Deploy on render-black?style=for-the-badge&logo=render&logoColor=white'/>
 ## Watch Tutorial videos.
 * [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@prexzyvilla)
 
-### DEPLOYMENT ON TERMUX
-
-**Go to your termux and input this commands**
 
 
 
 
 
-cd QUEEN-NYX-BOT
 
-yarn install
-   
-npm start
-
-
-If you see any question while upgrading with this options with Y for yes or N for no = Click yes or y
-
-If you see any question while upgrading with this options with Y or n for default, = Click n for Default
-
-
-
- It will ask you for your number type it with country code +
- It will give you a pair code go and link it to your WhatsApp 
- After linking
- Bot Connected ⚡
- Enjoy🤖
-
-### REPORT ISSUES
-
-atp update
-   
-
-apt upgrade
-
-pkg update && pkg upgrade
-
-pkg install bash
-
- pkg install git
-
- pkg install nodejs
-
-pkg install ffmpeg
-
-pkg install wget
-
-pkg install imagemagick
-
- pkg install yarn
-
-termux-setup-storage
-
-git clone https://github.com/Prexzybooster/QUEEN-NYX-BOT
-
- cd QUEEN-NYX-BOT
- 
- yarn install
- 
- npm start
 
 `Please PREXZY BUG BOT is for scammers only. Don't use it to harm innocent people`
 
@@ -111,7 +54,7 @@ Contributions to QUEEN NYX BOT are welcome! If you have ideas for new features, 
 
    **PRECIOUS (NYX) FOR INSPIRATION** 
 
-   **PRECIOUS AYOMIDE** For developing it; <br>
+   **PRECIOUS AYOMIDE** **For developing it**
 
 
 ## License
