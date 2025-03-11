@@ -21,7 +21,11 @@
 QUEEN NYX BOT is a normal bot designed to enhance the functionality and preferences of a user's whatsApp. Use reasonably
 
 ©PREXZYVILLA
-### 1. FORK THIS REPO
+
+### 1. STAR THIS REPO
+[![Star on GitHub](https://img.shields.io/badge/⭐%20Star%20on%20GitHub-blue?style=for-the-badge)](https://github.com/Prexzybooster/QUEEN-NYX-BOT)
+
+### 2. FORK THIS REPO
 
 <a href='https://github.com/Prexzybooster/QUEEN-NYX-BOT/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
    
