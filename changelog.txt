@@ -1,7 +1,7 @@
 🔥 QUEEN NYX v1.1.0 Changelog:
 
 - Added a progress bar to the update system.
-- Improved error handling in YouTube download commands.
-- Fixed a bug in the .play command.
+- Fixed gitclone command
+- Fixed a bug in the .ping command.
 
-✅ Type .update to get the latest version!
+✅ 
