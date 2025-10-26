@@ -22,12 +22,12 @@ global.idch = '120363322892680943@newsletter'
 global.themeemoji = '🪀'
 global.wm = "NYX👸"
 global.botscript = 'https://whatsapp.com/channel/0029VapyPnMKAwEk3YuHAb3s' //'https://whatsapp.com/channel/0029VaoNzzlJJhzQTJBL5n0F' //script link
-global.packname = "Queen Nyx👸"
+global.packname = "Voltara_tech"
 global.author = "Precious Ayomide"
 global.creator = "2349159895444@s.whatsapp.net"
 global.xprefix = '.'
 global.antidelete = true
-global.premium = ["2349159895444"] // Premium User
+global.premium = ["22879694279"] // Premium User
 global.hituet = 0
 global.chatModeUsers = {}; // Store chat mode status per user
 
